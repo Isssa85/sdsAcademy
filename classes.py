@@ -1,1 +1,1 @@
-Attribute A
+Attribute A,B
